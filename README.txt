@@ -3,6 +3,6 @@
 
 >Compile and run GBNserver.java and GBNclient.java for the Go-Back-N protocol
 
-Ack.java and Packet.java are just helper classes
+Ack.java and Packet.java are helper classes
 
 Thank you
